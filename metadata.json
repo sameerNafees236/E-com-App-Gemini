@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini E-Commerce Pro",
+  "description": "A full-featured e-commerce storefront and admin dashboard, built with React and Tailwind CSS. This application simulates a full-stack experience using mocked data services for product management, user authentication, and order processing.",
+  "requestFramePermissions": []
+}
